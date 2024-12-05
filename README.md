@@ -1,4 +1,4 @@
-# Work-Science-Training-Course-Repo
+# Data-Science-Training-Course-Repo
 This Repo contains some of the work I did within the training progam and the outputs I created. 
 
 Project 1: Explored relationships between farmers market and other Food Environment Atlas predictors across geographies. Includes: General Stat analysis, spread and outlier analysis, and data visuals.
